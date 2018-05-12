@@ -1,4 +1,5 @@
 _repo: The-Strand-Magazine-Vol-1-No-6-June-1891-An-Illustrated-Monthly_46596
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -10,9 +11,7 @@ contributor:
       wikipedia: http://en.wikipedia.org/wiki/George_Newnes
 covers:
 - cover_type: archival
-  image_path: 46596/46596-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46596-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -20,6 +19,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46596#The-Strand-Magazine-Vol-1-No-6-June-1891-An-Illustrated-Monthly
 gutenberg_issued: '2014-08-16'
 gutenberg_type: Text
 identifiers:
